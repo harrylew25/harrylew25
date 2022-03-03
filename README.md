@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center"> 
     I'm learning to be 1% percent better than myself yesterday. 
-    🌱 I'm currently learning **python**
+    🌱 I'm currently learning python
 </p>
 
 <h3 align="center">Languages and Tools that I know:</h3>
